@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['1(843)5470718', 'sandaru', true],
+  ['1(843)5470718', 'CHAT BOT 365', true],
   ['1(843)5470718', 'CHAT BOT 365', true], 
   [''] 
 ] //Number of owners
